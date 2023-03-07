@@ -3,7 +3,7 @@
 
 ## Services 
 * Validator : [Click Here](https://nolus.explorers.guru/validator/nolusvaloper1e2al5nyvp22mhz0c4x4l5mq9796z2amfmzxtcf)
-* Dashboard : [Click Here](https://dashboard.nolus.ultramannode.my.id/)
+* Dashboard : [Click Here](https://dashboard.nolus.ultramannode.my.id/d/1337/ultraman-validator?orgId=1)
 #### Chain ID : nolus-rila | Latest Version Tag : v0.1.43 | Snapshot Date : 04-Mar-2023 12:26
 
 ## Public Endpoints 
